@@ -1,0 +1,38 @@
+h1, h2, h3, p{
+    font-family: 'Unica One', sans-serif;
+    line-height: 2;
+}
+
+.container-header, .container-header1{
+    background-color: #969696;
+}
+
+.second-container{
+    background-color: #24292D;
+}
+
+.body-title, .body-text{
+    color: white;
+    text-align: center;
+}
+
+.form-text{
+    border: 1px white solid;
+    background-color: #24292D;
+    margin-bottom: 1em;
+}
+
+.form-button{
+    border: 1px white solid;
+    background-color: #24292D;
+    margin-bottom: 1em;
+    color: white;
+}
+
+.footer-container{
+    background-color: #6b7a86;
+}
+
+.footer-title, .footer-text{
+    font-weight: 800;
+}
