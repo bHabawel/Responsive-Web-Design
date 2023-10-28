@@ -1,0 +1,33 @@
+body{
+    background-color: #24292D;
+}
+
+.container-header, .container-header1{
+    background-color: #969696;
+}
+
+h1, h2, h3, h4, p{
+    font-family: 'Unica One', sans-serif;
+    line-height: 2;
+}
+
+.body-title, .body-text{
+    color: white;
+    text-align: center;
+}
+
+.container-section{
+    background-color: #373F45;
+}
+
+.div1-container{
+    background-color: #24292D;
+}
+
+.footer-container{
+    background-color: #6b7a86;
+}
+
+.footer-title, .footer-text{
+    font-weight: 800;
+}
