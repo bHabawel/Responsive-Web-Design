@@ -6,7 +6,7 @@ body{
     background-color: #969696;
 }
 
-h1, h2, h3, h4, p{
+h1, h2, h3, h4, .nav-link, p{
     font-family: 'Unica One', sans-serif;
     line-height: 2;
 }

@@ -1,4 +1,4 @@
-h1, h2, h3, p{
+h1, h2, h3, .nav-link, p{
     font-family: 'Unica One', sans-serif;
     line-height: 2;
 }
