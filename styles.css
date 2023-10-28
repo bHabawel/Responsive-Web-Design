@@ -1,6 +1,15 @@
-h1, h2, h3, p{
+h1, h2, h3, p, .nav-link{
     font-family: 'Unica One', sans-serif;
     line-height: 2;
+    font-size: 1.5em;
+}
+
+.header-title{
+    font-size: 1.8em !important;
+}
+
+.nav-link{
+    font-size: 2em;
 }
 
 .container-header, .container-header1{
