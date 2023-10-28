@@ -1,7 +1,6 @@
 h1, h2, h3, p, .nav-link{
     font-family: 'Unica One', sans-serif;
     line-height: 2;
-    font-size: 1.5em;
 }
 
 .container-header, .container-header1{
@@ -11,11 +10,10 @@ h1, h2, h3, p, .nav-link{
 .body-header{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 3em;
 }
+
 .body-text{
     color: white;
-    font-size: 1.5em;
 }
 
 .body-colored{
