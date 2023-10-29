@@ -1,14 +1,13 @@
-h1, h2, h3, p, .nav-link{
+.header-title{
+    font-size: 4vw;
     font-family: 'Unica One', sans-serif;
     line-height: 2;
 }
 
-.header-title{
-    font-size: 4vw;
-}
-
 .nav-link{
     font-size: 2vw;
+    font-family: 'Unica One', sans-serif;
+    line-height: 2;
 }
 
 .container-header, .container-header1{
@@ -24,10 +23,12 @@ h1, h2, h3, p, .nav-link{
 .body-text{
     color: white;
     font-size: 2vw;
+    font-family: 'Unica One', sans-serif;
 }
 
 .body-colored{
     color: #AB8B65;
+    font-size: 2vw;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -45,6 +46,8 @@ h1, h2, h3, p, .nav-link{
 
 .footer-title, .footer-text{
     font-weight: 800;
+    font-family: 'Unica One', sans-serif;
+    line-height: 2;
 }
 
 .footer-title{
