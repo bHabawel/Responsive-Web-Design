@@ -2,6 +2,14 @@ body{
     background-color: #24292D;
 }
 
+.header-title{
+    font-size: 4vw;
+}
+
+.nav-link{
+    font-size: 2vw;
+}
+
 .container-header, .container-header1{
     background-color: #969696;
 }
@@ -30,4 +38,12 @@ h1, h2, h3, h4, .nav-link, p{
 
 .footer-title, .footer-text{
     font-weight: 800;
+}
+
+@media only screen and (max-width: 991px){
+    .nav-link{
+        font-size: 3vw;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
 }
