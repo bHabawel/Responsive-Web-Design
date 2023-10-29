@@ -25,6 +25,14 @@ body{
     line-height: 2;
 }
 
+.body-title{
+    font-size: 3vw;
+}
+
+.body-maintext{
+    font-size: 23px;
+}
+
 .body-subtitle, .body-text, .body-subtext{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2;
@@ -69,12 +77,20 @@ body{
 }
 
 @media only screen and (max-width: 768px){
-    .body-header{
-        font-size: 19px;
+    .header-title{
+        font-size: 30.72px;
+    }
+    
+    .nav-link{
+        font-size: 23.08px;
+    }
+    
+    .body-title{
+        font-size: 20px;
     }
     
     .body-maintext{
-        font-size: 15px;
+        font-size: 18px;
     }
 
     .footer-title{
@@ -87,12 +103,20 @@ body{
 }
 
 @media only screen and (max-width: 480px){
+    .header-title{
+        font-size: 6.4vw;
+    }
+
+    .nav-link{
+        font-size: 4.808vw;
+    }
+    
     .body-title, .body-maintext{
         text-align: start;
     }
-
+    
     .body-maintext{
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .body-subtitle{
@@ -109,9 +133,5 @@ body{
 
     .footer-title{
         font-size: 26px;
-    }
-    
-    .footer-text{
-        font-size: 14px;
     }
 }

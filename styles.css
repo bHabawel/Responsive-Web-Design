@@ -22,7 +22,7 @@
 
 .body-text{
     color: white;
-    font-size: 2vw;
+    font-size: 23px;
     font-family: 'Unica One', sans-serif;
 }
 
@@ -67,12 +67,20 @@
 }
 
 @media only screen and (max-width: 768px){
+    .header-title{
+        font-size: 30.72px;
+    }
+
+    .nav-link{
+        font-size: 23.08px;
+    }
+
     .body-header{
-        font-size: 19px;
+        font-size: 20px;
     }
     
     .body-text{
-        font-size: 15px;
+        font-size: 18px;
     }
 
     .footer-title{
@@ -85,15 +93,19 @@
 }
 
 @media only screen and (max-width: 480px){
+    .header-title{
+        font-size: 6.4vw;
+    }
+
+    .nav-link{
+        font-size: 4.808vw;
+    }
+
     .body-text{
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .footer-title{
         font-size: 26px;
-    }
-    
-    .footer-text{
-        font-size: 14px;
     }
 }
