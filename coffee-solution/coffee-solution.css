@@ -11,8 +11,13 @@ h1, h2, h3, .nav-link, p{
     background-color: #24292D;
 }
 
-.body-title, .body-text{
+.body-title{
     color: white;
+    text-align: center;
+}
+
+.body-text{
+    color: #AB8B65;
     text-align: center;
 }
 
@@ -20,6 +25,8 @@ h1, h2, h3, .nav-link, p{
     border: 1px white solid;
     background-color: #24292D;
     margin-bottom: 1em;
+    color: white;
+    font-size: 2vw;
 }
 
 .form-button{
