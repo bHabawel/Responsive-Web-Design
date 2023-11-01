@@ -29,6 +29,9 @@ body{
 
 .form-text{
     background-color: #373F45;
+    margin-bottom: 1em;
+    color: white;
+    font-size: 2vw;
 }
 
 .form-btn{
